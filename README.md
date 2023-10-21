@@ -1,4 +1,4 @@
-#Blog
+# Blogs
 
 This is a html and css project to display blogs.
 
